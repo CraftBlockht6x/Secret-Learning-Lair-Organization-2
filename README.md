@@ -3,4 +3,4 @@
 高中各科教材 PDF 汇总。
 
 ## 相关仓库
-- 学习资料：https://github.com/你的用户名/Secret-Learning-Lair-Organization
+- 学习资料：https://github.com/CraftBlockht6x/Secret-Learning-Lair-Organization
